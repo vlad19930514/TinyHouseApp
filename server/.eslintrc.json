@@ -3,11 +3,11 @@
     "parserOptions": {
         "ecmaVersion": 2018,
         "sourceType": "module"
-    },
-    "extends": ["plugin:@typescript-eslint/recommended"],
-    "env": {"node": true},
-    "rules": {
-        "indent":"off",
-        "@typescript-eslint/indent":"off"
-    }
+      },
+      "extends": ["plugin:@typescript-eslint/recommended"],
+      "env": { "node": true },
+      "rules": {
+        "indent": "off",
+        "@typescript-eslint/indent": "off"
+      }
 }
